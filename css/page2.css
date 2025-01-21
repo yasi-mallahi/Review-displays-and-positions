@@ -1,0 +1,15 @@
+section{
+    width: 100px;
+    height: 50px;
+    background-color:aqua;
+    position: relative;
+}
+article{
+    width: 100px;
+    height: 50px;
+    background-color: chocolate;
+    position: absolute;
+   top: 30px;
+   left: 30px;
+  
+}

@@ -1,0 +1,14 @@
+section{
+    border: black solid 2px;
+    width: 250px;
+    height: 200px;
+    position: relative;
+  
+}
+article p{
+    position: absolute;
+    background-color: rgb(93, 211, 211);
+    left: 4rem;
+    top: 3rem;
+    padding: 10px;
+}

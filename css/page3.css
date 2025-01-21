@@ -1,0 +1,16 @@
+
+body{
+   overflow-y: auto;
+   height: 2000px;
+}
+.sticky{
+    background-color:  aqua;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    margin-bottom:0 ;
+}
+.para{
+    margin-top:0 ;
+}
+

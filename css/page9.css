@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+  /* background-color:white; */
+  /* border: black 2px solid; */
+  width: 20rem;
+  height: 20rem;
+  margin:8rem  auto;
+  
+}
+
+.box{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+
+.red{
+    background-color: rgb(200, 17, 17);
+
+    
+}
+
+.wite{
+    background-color: white;
+}

@@ -1,0 +1,59 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+.parent{
+    background-color: whitesmoke;
+    width: 20rem;
+    height: 26rem;
+    border: 1px rgb(198, 196, 196) solid;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+}
+
+.apple img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    border: black solid 3px;
+    position: absolute;
+    left: 30px;
+    top:20px ;
+   
+}
+h3{
+    position: absolute;
+    left: 30px;
+    top: 230px;
+    font-size: 18px;
+}
+.para1{
+    color: rgb(158, 115, 198);
+    position: absolute;
+    left: 30px;
+    top:265px ;
+    font-size: 14px;
+}
+.para2{
+    color: rgb(218, 159, 168);
+    position: absolute;
+    left: 30px;
+    top:307px ;
+    font-size: 16px;
+}
+.small-box{
+    background-color: rgb(225, 128, 59);
+    color: aliceblue;
+    position: absolute;
+    left: 30px;
+    top:345px ;
+    width: 100px;
+    height: 34px;
+    border-radius: 5px;
+    padding: 5px;
+}

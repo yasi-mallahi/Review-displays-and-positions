@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    position: relative;
+}
+
+.dark-green{
+    
+    background-color: rgb(49, 93, 5);
+    width: 1vw;
+    height: 50vh;
+    position: absolute;
+    right:38rem ;
+    top:20rem ;
+    z-index: 2;
+    
+}
+
+
+.light-green{
+    background-color: rgb(94, 205, 94);
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    right: 38.8rem;
+    top: 27rem;
+    z-index: 1;
+   border-top-right-radius:100% ;
+   border-bottom-left-radius:100% ;
+}
+
+
+.yellow{
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 37.75rem;
+    top:19rem;
+    border-radius: 50%;
+    z-index: 4;
+    
+}
+
+
+
+.red{
+  background-color: red;
+  width: 6rem;
+  height: 6rem;
+
+}
+
+.one{
+    position: absolute;
+    z-index: 1;
+    border-top-right-radius:100% ;
+    border-bottom-left-radius:100% ;
+    right: 38.94rem;
+    top: 13.6rem;
+}
+
+.two{
+    position: absolute;
+    display: inline-block;
+    z-index:1;
+    border-top-left-radius:100% ;
+    border-bottom-right-radius:100%;
+    right: 38.78rem;
+    top: 20rem;
+}
+
+.three{
+    position: absolute;
+    z-index: 2;
+    border-top-left-radius:100% ;
+    border-bottom-right-radius:100%;
+    right: 32rem;
+    top: 13.5rem;
+
+}
+
+.four{position: absolute;
+    z-index: 3;
+    border-top-right-radius:100% ;
+    border-bottom-left-radius:100% ;
+    right: 32rem;
+    top: 20rem;
+
+}
+

@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    background-color: aqua;
+    width:160px;
+    height:60px ;
+    text-align: center;
+    margin: 25% auto;
+    padding-top: 15px;
+}
+
